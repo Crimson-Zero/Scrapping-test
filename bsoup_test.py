@@ -2,11 +2,11 @@
 """
 Created on Sat Jun 18 16:54:46 2022
 
-@author: wajee
+
 """
 
 from bs4 import BeautifulSoup
-website_path = "C:/Users/wajee/.spyder-py3/bs4-start/website.html"
+website_path = "website.html"
 
 with open(website_path , encoding="utf-8") as file:
     contents = file.read()
