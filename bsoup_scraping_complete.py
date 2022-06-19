@@ -2,7 +2,6 @@
 """
 Created on Sun Jun 19 16:41:57 2022
 
-@author: wajee
 """
 
 #scraping a live website
